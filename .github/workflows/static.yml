@@ -13,8 +13,8 @@ jobs:
       # Setup key
       - run: set -eu
       # - run: mkdir "/home/p/pasegopf/.ssh"
-      - run: echo "$" > "/home/p/pasegopf/.ssh/key"
-      - run: chmod 600 "/home/p/pasegopf/.ssh/key"
+      - run: echo "$" > "/home/p/pasegopf/.ssh"
+      - run: chmod 600 "/home/p/pasegopf/.ssh"
       # Build
 
       # Deploy
