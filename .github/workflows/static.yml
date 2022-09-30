@@ -13,8 +13,8 @@ jobs:
       # Setup key
       - run: set -eu
       - run: mkdir "$HOME/.ssh"
-      - run: echo "$" > "$HOME/.ssh/key"
-      - run: chmod 600 "$HOME/.ssh/key"
+      - run: echo "$" > "$HOME/.ssh/ida_rsa"
+      - run: chmod 600 "$HOME/.ssh/ida_rsa"
       # Build
 
       # Deploy
