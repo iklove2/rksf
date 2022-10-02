@@ -15,7 +15,7 @@ jobs:
       - run: mkdir "$HOME/.ssh"
       - run: echo "$" > "$HOME/.ssh/id_rsa"
       - run: chmod 600 "$HOME/.ssh/id_rsa"
-      - run: chmod 744 "$HOME/.ssh/"
+      - run: chmod 700 "$HOME/.ssh/"
       
       # Build
 
