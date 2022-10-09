@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^izh.rksf.ru$ [NC]
+RewriteCond %{REQUEST_URI} !^/izh/ [NC]
+RewriteRule (.*) /izh/$1 [L]
