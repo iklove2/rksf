@@ -1,1 +1,4 @@
 Disallow: /izh/
+Disallow: /msk/
+Disallow: /nn/
+Disallow: /sochi/
