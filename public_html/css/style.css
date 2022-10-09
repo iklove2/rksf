@@ -24,3 +24,11 @@ a.phonehref:link {
 a.shophref:link {
     color: white;
 }
+
+a.shophref:hover {
+    color: yellow;
+}
+
+a.phonehref:hover {
+    color: yellow;
+}
