@@ -5,3 +5,22 @@
 .text-white {
     color: white;
 }
+
+a.phonehref {
+    text-decoration:none;
+    color:white;
+
+}
+
+a.shophref {
+    text-decoration: none;
+    color: white;
+}
+
+a.phonehref:link {
+    color: white;
+}
+
+a.shophref:link {
+    color: white;
+}
