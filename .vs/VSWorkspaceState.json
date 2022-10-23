@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public_html",
+    "\\public_html\\css",
+    "\\public_html\\izh",
+    "\\public_html\\msk",
+    "\\public_html\\nn",
+    "\\public_html\\sochi"
   ],
+  "SelectedNode": "\\public_html\\sochi\\index.html",
   "PreviewInSolutionExplorer": false
 }
